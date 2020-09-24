@@ -2070,8 +2070,7 @@ svg[name=Nitro] g path {
 
 .wrapper-1BJsBx[aria-label=Home] {
 	transition: all .3s ease;
-	background-image: linear-gradient(to left,var(--primaryGradient1),var(--primaryGradient2));
-	-webkit-mask-image: url(https://cdn.discordapp.com/avatars/492453077597814800/7142520932a0911f3f336e0645142b0e.png);
+	background-image: url(https://cdn.discordapp.com/avatars/492453077597814800/7142520932a0911f3f336e0645142b0e.png);
 	-webkit-mask-position: center;
 	-webkit-mask-repeat: no-repeat;
 	-webkit-mask-size: contain
